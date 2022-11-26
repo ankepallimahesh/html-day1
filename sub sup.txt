@@ -1,0 +1,30 @@
+<html>
+<body><p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+<br> i am </br>
+<ins>mahesh</ins>
+<del>rajesh</del>
+<mark>suresh</mark>
+<p><i>subbu</i></p>
+<var>ajay</var>
+<code>computer</code>
+This is <acronym title="GeeksforGeeks">GFG</acronym> <br>
+<cite> GeeksforGeeks </cite> is my favourite website. <br>
+<blockquote cite="https://www.geeksforgeeks.org/">
+A Computer Science portal for geeks. It contains well written, well thought and well 
+explained computer science and programming articles, and quizzes.
+</blockquote>
+<p>
+<dfn> GeeksforGeeks </dfn> is a Computer Science portal for geeks. It contains well 
+written, well thought and well explained computer science and programming articles, 
+and quizzes.
+</p>
+<kbd> GeeksforGeeks - This is a Keyboard input </kbd>
+<a href="https://www.youtube.com/watch?v=SiG5Zzcg_JY">youtube</a>
+
+  
+    
+
+</body>
+</html>
